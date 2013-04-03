@@ -3,10 +3,10 @@ visual-basic
 
 Tugas Besar Visual Basic - S1 PTI 2011
 
-Renitha Erdiana - 110533430681
-Miranti Dwi Kurnia - 110533430523
-Dewi Rizka Fithriyah - 110533406986
-Aries Jodi S - 110533430556
+|| Renitha Erdiana - 110533430681 || 
+Miranti Dwi Kurnia - 110533430523 || 
+Dewi Rizka Fithriyah - 110533406986 || 
+Aries Jodi S - 110533430556 || 
 
 Hangman merupakan permainan tebak kata oleh user. Kata dalam game yang kami buat akan menyediakan 4 tema yang berbeda, antara lain :
 1. Menebak kata dengan tema tari tradisional
